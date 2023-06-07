@@ -1,11 +1,13 @@
 # Sales-Shipping-Dashboard
 
 An Interactive dashboard showing the sales and shipping year on year for a country. 
+
 ![image](https://github.com/archishmanSingha/Sales-Shipping-Dashboard/assets/123219771/265d9abb-599e-44c1-b459-9872c93211e7)
 
+Visualization is done in Excel using latest tools such as PowerQuery to connect to multiple CSV files which contained data for the country of each year,and then was used to clean, shape and restructure the data. Ltaer, I used PowerPivot to create advanced data models, do powerful calculations and generate interactive charts. 
 
+The visualization is done in such a way that it is easily understandable for quick analysis and decisions.
 
-Analysis is made using Latest tools such as PowerQuery to extract data and PowerPivot to analyze. Easy to read Tables for quick decisions.
 Maps have been added showing shopping and sale data.
 Slicers have been added for better filteration.
 
