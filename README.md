@@ -1,4 +1,5 @@
 # Sales-Shipping-Dashboard
+![image](https://github.com/archishmanSingha/Sales-Shipping-Dashboard/assets/123219771/265d9abb-599e-44c1-b459-9872c93211e7)
 
 An Interactive dashboard showing the sales and shipping year on year for a country. 
 
